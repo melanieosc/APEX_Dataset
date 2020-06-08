@@ -1,2 +1,2 @@
 # APEX_Dataset
-Contain sample data and scripts for APEX workshops
+Contains sample data and scripts for APEX workshops. First usage is to support the OCI cost application.
